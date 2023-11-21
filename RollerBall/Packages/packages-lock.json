@@ -88,7 +88,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents": {
-      "version": "file:C:/Users/sasac/anaconda3/envs/UnityMLAgents/ml-agents-release_19/com.unity.ml-agents",
+      "version": "file:../../ml-agents-release_19/com.unity.ml-agents",
       "depth": 0,
       "source": "local",
       "dependencies": {
